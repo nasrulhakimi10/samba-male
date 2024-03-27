@@ -1,0 +1,11 @@
+Model Information:
+* title:	Samba Dancing
+* source:	https://sketchfab.com/3d-models/samba-dancing-3a9bdbfd88ec498897d18272a188ca96
+* author:	Joe chakrapong (https://sketchfab.com/chakrapong)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Samba Dancing" (https://sketchfab.com/3d-models/samba-dancing-3a9bdbfd88ec498897d18272a188ca96) by Joe chakrapong (https://sketchfab.com/chakrapong) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
